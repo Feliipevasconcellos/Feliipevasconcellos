@@ -39,7 +39,6 @@
 
 <img src="https://img.shields.io/badge/-.NET%208.0-61DAFB?logo=dotnet&logoColor=white&labelColor=0D1117" width="100"/>
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=0D1117" width="100"/>
-<img src="https://img.shields.io/badge/Microsoft-Azure-61DAFB?logoColor=white&style=for-the-badge&labelColor=0D1117" width="140"/>
 <img src="https://img.shields.io/badge/Java-61DAFB?style=for-the-badge&logo=openjdk&logoColor=white&style=for-the-badge&labelColor=0D1117" width="70">
 
 
